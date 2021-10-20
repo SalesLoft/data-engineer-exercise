@@ -38,3 +38,7 @@ To accomplish this - we’d like you to make use of the following tool set. Thes
 * A dbt project created, developed and tested to a standard you think a data consumer would expect in the time frame allotted. Stored in a public Github repository. 
 * A Google BigQuery data set, populated with data from the stack overflow sample data set and modeled with dbt to answer the question posed above. 
 * A data model diagram that provides a visual representation of your data model
+
+## Submission Guidelines
+
+* Please respond to your recruiter with the data model diagram and a link to the Github repository. 
